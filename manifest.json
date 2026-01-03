@@ -1,0 +1,16 @@
+{
+  "name": "Al-Mu'allim Islamic VA",
+  "short_name": "Al-Muallim",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#013220",
+  "theme_color": "#D4AF37",
+  "description": "Authentic Islamic Voice Assistant",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/L952f4Y/Al-Muallim-Islamic-VA.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
