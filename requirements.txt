@@ -1,4 +1,0 @@
-streamlit
-groq
-elevenlabs
-streamlit-mic-recorder
