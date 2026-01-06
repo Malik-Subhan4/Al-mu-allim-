@@ -1,0 +1,23 @@
+{
+  "name": "Al-Mu'allim Islamic VA",
+  "short_name": "Al-Mu'allim",
+  "description": "Authentic Islamic Voice Assistant providing guidance from Quran and Sahih Hadith.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#013220",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/L952f4Y/Al-Muallim-Islamic-VA.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/L952f4Y/Al-Muallim-Islamic-VA.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
